@@ -16,7 +16,7 @@
 5. Lateral Movement (T1021.001) - WinRM / RDP 및 GPO 악용 전사 시스템 장악
 6. Impact (T1486) - Cerber 랜섬웨어를 통한 전사 데이터 암호화
 
-##분석 대상 및 가상 인프라 환경
+## 분석 대상 및 가상 인프라 환경
 1. 공격 도구: PHP WebShell, WDigest, Fscan, Mimikatz, WMIC, WinRM, Chisel, Cerber Ransomware
 2. 구축 환경: VMware Workstation, Active Directory (Windows Server 2019), MS-SQL Server, IIS/XAMPP
 
